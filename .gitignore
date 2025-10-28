@@ -12,6 +12,7 @@ build/
 dist/
 sdist/
 var/
+venv/
 wheels/
 *.egg-info/
 .installed.cfg
